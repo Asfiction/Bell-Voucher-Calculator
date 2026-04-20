@@ -1,0 +1,17 @@
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\bin\Release\net8.0-windows\Bell Vouncher Calculator.exe
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\bin\Release\net8.0-windows\Bell Vouncher Calculator.deps.json
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\bin\Release\net8.0-windows\Bell Vouncher Calculator.runtimeconfig.json
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\bin\Release\net8.0-windows\Bell Vouncher Calculator.dll
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\bin\Release\net8.0-windows\Bell Vouncher Calculator.pdb
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\obj\Release\net8.0-windows\Bell_Vouncher_Calculator.Form1.resources
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\obj\Release\net8.0-windows\Bell_Vouncher_Calculator.Properties.Resources.resources
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\obj\Release\net8.0-windows\Bell Vouncher Calculator.csproj.GenerateResource.cache
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\obj\Release\net8.0-windows\Bell Vouncher Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\obj\Release\net8.0-windows\Bell Vouncher Calculator.AssemblyInfoInputs.cache
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\obj\Release\net8.0-windows\Bell Vouncher Calculator.AssemblyInfo.cs
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\obj\Release\net8.0-windows\Bell Vouncher Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\obj\Release\net8.0-windows\Bell Vouncher Calculator.dll
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\obj\Release\net8.0-windows\refint\Bell Vouncher Calculator.dll
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\obj\Release\net8.0-windows\Bell Vouncher Calculator.pdb
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\obj\Release\net8.0-windows\Bell Vouncher Calculator.genruntimeconfig.cache
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\obj\Release\net8.0-windows\ref\Bell Vouncher Calculator.dll

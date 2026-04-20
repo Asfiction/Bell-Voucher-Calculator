@@ -1,0 +1,5 @@
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\bin\Release\net8.0-windows\publish\Bell Vouncher Calculator.exe
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\bin\Release\net8.0-windows\publish\Bell Vouncher Calculator.dll
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\bin\Release\net8.0-windows\publish\Bell Vouncher Calculator.deps.json
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\bin\Release\net8.0-windows\publish\Bell Vouncher Calculator.runtimeconfig.json
+C:\Users\Lizzy\source\repos\Bell Vouncher Calculator\bin\Release\net8.0-windows\publish\Bell Vouncher Calculator.pdb
