@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lizzy\\source\\repos\\Bell Vouncher Calculator\\Bell Vouncher Calculator.csproj": {}
+    "C:\\Users\\Lizzy\\Documents\\GitHub\\Bell-Voucher-Calculator\\Bell Vouncher Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lizzy\\source\\repos\\Bell Vouncher Calculator\\Bell Vouncher Calculator.csproj": {
+    "C:\\Users\\Lizzy\\Documents\\GitHub\\Bell-Voucher-Calculator\\Bell Vouncher Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lizzy\\source\\repos\\Bell Vouncher Calculator\\Bell Vouncher Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Lizzy\\Documents\\GitHub\\Bell-Voucher-Calculator\\Bell Vouncher Calculator.csproj",
         "projectName": "Bell Vouncher Calculator",
-        "projectPath": "C:\\Users\\Lizzy\\source\\repos\\Bell Vouncher Calculator\\Bell Vouncher Calculator.csproj",
+        "projectPath": "C:\\Users\\Lizzy\\Documents\\GitHub\\Bell-Voucher-Calculator\\Bell Vouncher Calculator.csproj",
         "packagesPath": "C:\\Users\\Lizzy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lizzy\\source\\repos\\Bell Vouncher Calculator\\obj\\",
+        "outputPath": "C:\\Users\\Lizzy\\Documents\\GitHub\\Bell-Voucher-Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lizzy\\AppData\\Roaming\\NuGet\\NuGet.Config",

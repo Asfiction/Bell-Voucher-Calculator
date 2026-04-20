@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bell Vouncher Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+843ce6b0b1468702fbddca28a07a2a152df027ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bell Vouncher Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bell Vouncher Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
